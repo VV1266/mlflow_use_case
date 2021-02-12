@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1613128688766.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "E11A0D12",
+    "lastKnownWriteTime" : 1613128965,
+    "last_content_update" : 1613128965,
+    "path" : "~/Documents/GitHub/mlflow_use_case/log/cloud_base.log",
+    "project_path" : "log/cloud_base.log",
+    "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}

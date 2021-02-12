@@ -1,0 +1,15 @@
+artifact_uri: /Users/vsuman/Documents/GitHub/mlflow_use_case/mlruns/44/362ce631fff649dda8ab92446a8d25f2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '44'
+lifecycle_stage: active
+name: ''
+run_id: 362ce631fff649dda8ab92446a8d25f2
+run_uuid: 362ce631fff649dda8ab92446a8d25f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1613129539645
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,42 @@
+{
+  "scenario_name": "cloud",
+  "server_name": "NOSMGDB1.rms.com",
+  "cyber_all_name": "cyber_all",
+  "profit_margin_path": "data/cloud/data/profit_margin.xlsx",
+  "inputFile_path": "data/cloud/data/input.xlsx",
+  "DandB_path": "data/cloud/data/FINAL_nfirms_latest.xlsx",
+  "Cloud_exposure_data_path":"data/cloud/data/Cloud exposure data.xlsx",
+  "transactional_contractual_path":"data/cloud/data/transactional_contractual.xlsx",
+  "filterOutLess1HourEvents": true,
+  "source_ces_name":"US EED stats",
+  "CESs":"US EED stats",
+  "CSPs": [
+    "aws",
+    "azure"
+  ],
+  "TwelveHoursWaitingPeriod": false,
+  "new_data": true,
+  "adjustRevImpact": true,
+  "applyPowerRatio4EUandAP": true,
+  "AUlikeEU": false,
+  "withGoogle": false,
+  "withAzure": true,
+  "deriveBackgroundRates": true,
+  "deriveScenarioRates": true,
+  "runCE": false,
+  "senarios_variant_case_ID": [
+      "ELB",
+      "RP10",
+      "RP25",
+      "RP50",
+      "RP100",
+      "RP200",
+      "RP500",
+      "RP1000"
+    ],
+    "senarios_variant_jurdication_ID":[
+      "US",
+      "EU",
+      "AP"
+    ]
+}

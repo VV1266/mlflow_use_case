@@ -1,0 +1,7 @@
+{
+  "cloud": true,
+  "ddos": false,
+	"extortion":false,
+	"leakomania": true,
+	"financial" : false
+}

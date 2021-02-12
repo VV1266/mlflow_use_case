@@ -1,0 +1,21 @@
+{
+	"scenario_name":"leakomania",
+	"server_name" : "NOSMGDB1.rms.com",
+  "cyber_all_name" : "cyber_all",
+  "seed_set":12345,
+  "startYear" : 2007,
+  "new_rp_shift" : true,
+  "new_cid" : true,
+  "adjustCost" : true,
+  "truncateELBRates" : true,
+  "truncateSCRates" : true,
+  "adjustRevDep" : true,
+  "rateSeveritySmoothing" : true,
+  "inputFile_path" : "Cyber_IT_Perils/data/leakomania/data/input.xlsx",
+  "deriveBackgroundRates" : true,
+  "deriveScenarioRates" : true,
+  "deriveCostandRevDep" : false,
+  "runCE" : false,
+  "senarios_variant_case_ID" : ["ELB","RP10"],
+  "DandB_path" : "Cyber_IT_Perils/data/nfirm/FINAL_nfirms_latest.xlsx"
+}

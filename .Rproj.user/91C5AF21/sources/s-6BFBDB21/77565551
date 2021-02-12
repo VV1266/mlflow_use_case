@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1613129605019.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "77565551",
+    "lastKnownWriteTime" : 4331975034,
+    "last_content_update" : 1613129605019,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "context" : "package:mlflow:::mlflow_start_run"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_code_browser"
+}

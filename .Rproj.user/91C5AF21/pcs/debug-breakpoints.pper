@@ -1,0 +1,21 @@
+{
+    "debugBreakpointsState" : {
+        "breakpoints" : [
+            {
+                "editor_line_number" : 25,
+                "editor_state" : 1,
+                "function_name" : "toplevel",
+                "function_steps" : "",
+                "id" : 6,
+                "is_package_breakpoint" : false,
+                "is_pending_debug_completion" : false,
+                "line_number" : 25,
+                "needs_updated_steps" : true,
+                "package_name" : "",
+                "path" : "~/Documents/GitHub/mlflow_use_case/main.R/main_init.R",
+                "state" : 1,
+                "type" : 1
+            }
+        ]
+    }
+}

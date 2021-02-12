@@ -1,0 +1,40 @@
+Collecting package metadata (current_repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  MLFlow working environment location: /Users/vsuman/.conda/envs/r-mlflow-1.13.1
+
+  added / updated specs:
+    - python=3.6
+
+
+-- src_cloud
+-- main_run_code.R (driver_script_start_here.R)
+
+-- cloud power consumption(Version 4.1)
+	-- power_consumption.R
+
+--read_database (from folder/file/SQL.)
+	-- readAllSQLTables.R
+	-- readCostandRevDep.R
+	-- readCSVTables.R
+	-- readSQLTables.R
+	-- readSQLTables2.R
+
+--Cost Adjust (adjustCostV41.R)
+	-- adjustRevImpact.R
+
+--Generate rate/cost tables
+	-- initialize.R
+	-- background_All.R
+		-- background_AWS.R
+		-- background_AZURE.R
+		-- background_google.R
+	-- scenario.R
+	-- CostAndRevDep.R
+
+-- writing tables to SQL database
+	-- Table_write_2_SQL.R
+– Utility
+	-- helperFcts.R
