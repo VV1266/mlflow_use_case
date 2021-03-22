@@ -6,7 +6,7 @@ library(log4r)
 work_dir <- "~/Documents/GitHub/mlflow_use_case"
 setwd(work_dir)
 
-
+# make sure will run you change the exp name
 experiment_name_="check_RUN_6"
 # Create a new logger object with create.logger().
 logger <- create.logger()
