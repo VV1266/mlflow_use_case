@@ -1,12 +1,12 @@
 # mlflow_use_case
 ## Install the mlflow library
-## run the main_init.R
+#### run the main_init.R
 
 
 ## Step's for execuating the code for Windows Server
 
 
-### make sure working dir path set to be D:\Github\Cyber_IT_Pipelines_V4-master\Cyber_IT_MlFLow_Pipeline_V4
+### make sure working dir path set to be ~/../mlflow_use_case
 ### To expose mlflow ui
 #### open cmd as admin level
 #### activate the r-mlflow-1.14.1 enviornment
