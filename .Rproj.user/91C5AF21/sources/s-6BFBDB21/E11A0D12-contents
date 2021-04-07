@@ -1,8 +1,0 @@
-INFO  [2021-02-12 16:47:28] **********Execuation of code starts*******
-INFO  [2021-02-12 16:47:28] Experiment ID: check_RUN_1  for Peril: cloud Run ID:  2b6ca3572eab42ff88f2cbd364d8f65d
-INFO  [2021-02-12 16:47:28] check_RUN_1 : cloud
-INFO  [2021-02-12 16:47:28] *******Execaution of code ends*******
-INFO  [2021-02-12 16:52:22] **********Execuation of code starts*******
-INFO  [2021-02-12 16:52:25] Experiment ID: check_RUN_2  for Peril: cloud Run ID:  db601d54cabe462396b554661728a0bd
-INFO  [2021-02-12 16:52:42] check_RUN_2 : cloud
-INFO  [2021-02-12 16:52:45] *******Execaution of code ends*******
