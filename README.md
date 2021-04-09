@@ -21,7 +21,4 @@
 ```
 ####after exposing the mlflow server then only **run main/main_init.R** file otherwise you will get **curl error**
 ####make sure you change the experiment name while run for new experiment in main/main_init.R file
-
-
-
  
