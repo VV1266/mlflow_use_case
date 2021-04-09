@@ -1,19 +1,14 @@
 {
-  "scenario_name": "cloud",
-  "cyber_all_name": "cyber_XYZ_",
-  "senarios_variant_case_ID": [
-      "ELB",
-      "RP10",
-      "RP25",
-      "RP50",
-      "RP100",
-      "RP200",
-      "RP500",
-      "RP1000"
+  "scenario_name": "loud",
+  "_all_name": "ber_XYZ_",
+  "variant_case_ID": [
+      "**B",
+      "**0",
+      "**25"
     ],
-    "senarios_variant_jurdication_ID":[
-      "US",
-      "EU",
-      "AP"
+    "variant_jurdication_ID":[
+      "**S",
+      "E**",
+      "A**"
     ]
 }

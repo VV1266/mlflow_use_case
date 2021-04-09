@@ -60,14 +60,14 @@ for (peril in ls(main_config_data)){
     exper_id_log = paste("Experiment ID:", toString(experiment_name_)," for Peril:",experiment_peril_id_,"Run ID: ",active_experiment_run_uuid_)
     info(logger=logger,message = exper_id_log)
     
-    if (experiment_peril_id_ =='cloud'){
+    if (experiment_peril_id_ =='loud'){
         config_node <- cloud_config_data
     }
-    if (experiment_peril_id_ == 'leakomania'){
+    if (experiment_peril_id_ == 'akomania'){
         config_node <- leakomania_config_data
     }
     for (p in ls(config_node)) {
-      if (p %in% c("CSPs","senarios_variant_case_ID","senarios_variant_jurdication_ID")){
+      if (p %in% c("CSPs","variant_case_ID","variant_jurdication_ID")){
         
         # Adding the Parameters in the Active Run
         # Examples are params and hyperparams used for ML training, or constant dates and values used in an ETL pipeline. A param is a STRING key-value pair. 

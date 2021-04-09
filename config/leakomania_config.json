@@ -1,5 +1,5 @@
 {
-	"scenario_name":"leakomania",
+	"scenario_name":"akomania",
   "runCE" : false,
-  "senarios_variant_case_ID" : ["ELB","RP10"]
+  "senarios_variant_case_ID" : ["**B","***0"]
 }
