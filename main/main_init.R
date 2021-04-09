@@ -89,7 +89,7 @@ for (peril in ls(main_config_data)){
   info(logger = logger,message = text)
   info(logger=logger,message = '*******Execaution of code ends*******')
   # Log the file artifact 
-  # Logs a specific file (like .CSV,.PNG,.log file) or directory as an artifact for a run
+  # Logs a specific file path (like .CSV,.PNG,.log file) or directory as an artifact for a run
   mlflow_log_artifact(file_name,client = client_,run_id = active_experiment_run_uuid_,artifact_path = file.path('log4j'))
   
   # Terminates a run. Attempts to end the current active run
